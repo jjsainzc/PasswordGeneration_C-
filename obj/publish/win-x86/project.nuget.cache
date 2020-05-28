@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Xs60ePtjtvxA3ANIskFwLbZdISOsKasJudz/WBi350Q0NKr7K0w24E1+HiCkKVbbafMNF79A+INTX75MVPX6/A==",
+  "dgSpecHash": "y/t+MRH4XKXeID+ezzqDSwg8D6e/L3G3Id5wnrNXhRyZsoxkbxDB1wKipOvKEvfGHIDWcAk0byf78tgBKEioAw==",
   "success": true,
   "projectFilePath": "D:\\jjsai\\Documents\\VisualStudioProjects\\PasswordGeneration\\PasswordGeneration.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jjsai\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.4\\microsoft.netcore.app.runtime.win-x86.3.1.4.nupkg.sha512",
+    "C:\\Users\\jjsai\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.4\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.4.nupkg.sha512",
+    "C:\\Users\\jjsai\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.4\\microsoft.aspnetcore.app.runtime.win-x86.3.1.4.nupkg.sha512",
     "C:\\Users\\jjsai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
