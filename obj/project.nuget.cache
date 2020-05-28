@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dzt+KLWxBpO7yOoU28Vqnv8tT8Uo66Wtpx1lpADPOLdclNYaVHw9A6LzZ7Knph6iD3dW1UDRBkagsFlfFw432A==",
+  "success": true,
+  "projectFilePath": "D:\\jjsai\\Documents\\VisualStudioProjects\\PasswordGeneration\\PasswordGeneration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jjsai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
