@@ -55,7 +55,6 @@ namespace PasswordGeneration
         public static String getPassword(int length, String src)
         {
             StringBuilder pass = new StringBuilder();
-            String temp;
 
             if (length < 8)
             {
